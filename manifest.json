@@ -1,1 +1,19 @@
-
+"artist": {
+        "name": "ADHDKitties",
+        "address": "0x4027b203a16158a39b80b2d3a353ca4870dca63e",
+        "show": true
+  },
+    "listing": [
+      {
+          "image": "tidepodbowtie",
+          "contract": "",
+          "category": "memes",
+          "displayName": "Tide Pod Bowtie "
+      },{ 
+          "image": "patrickstarfishhat",
+          "contract": "",
+          "category": "memes",
+          "displayName": "Patrick Star Party Hat"
+            }
+    ]
+}
