@@ -1,19 +1,18 @@
 {"artist": {
         "name": "ADHDKitties",
-        "address": "0x4027b203a16158a39b80b2d3a353ca4870dca63e",
+        "address": "0x4027B203A16158a39b80B2d3a353cA4870dCa63e",
         "show": true
-  },
-    "listing": [
-      {
-          "image": "tidepodbowtie",
-          "contract": "",
-          "category": "memes",
-          "displayName": "Tide Pod Bowtie "
-      },{ 
-          "image": "patrickstarfishhat",
-          "contract": "",
-          "category": "memes",
-          "displayName": "Patrick Star Party Hat"
-            }
+    },"listing": [
+        {
+            "image": "<patrickstarfishhat>",
+            "contract": "0xe5fa56d5e302aa1328c7346831abdf85be1f77ff ",
+            "category": "memes",
+            "displayName": "Surprised Patrick"
+        },{
+            "image": "<tidepodbowtie>",
+            "contract": "0x9cbd70665cfc178dd5598bd8b9e3cccebe34f948",
+            "category": "memes",
+            "displayName": "Tie'd Pod"
+        }
     ]
 }
