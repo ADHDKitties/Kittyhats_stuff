@@ -5,12 +5,12 @@
     },"listing": [
         {
             "image": "patrickstarfishhat",
-            "contract": "0xe5fa56d5e302aa1328c7346831abdf85be1f77ff",
+            "contract": "ItemMemePatrick",
             "category": "memes",
             "displayName": "Surprised Patrick Party Hat"
         },{
             "image": "tidepodbowtie",
-            "contract": "0x9cbd70665cfc178dd5598bd8b9e3cccebe34f948",
+            "contract": "ItemMemeTidePod",
             "category": "memes",
             "displayName": "Tie'd Pod"
         }
