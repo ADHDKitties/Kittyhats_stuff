@@ -4,11 +4,6 @@
         "show": true
     },"listing": [
         {
-            "image": "patrickstarfishhat",
-            "contract": "ItemMemePatrick",
-            "category": "memes",
-            "displayName": "Surprised Patrick Party Hat"
-        },{
             "image": "tidepodbowtie",
             "contract": "ItemMemeTidePod",
             "category": "memes",
