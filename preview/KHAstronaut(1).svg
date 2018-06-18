@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="360px" height="360px" viewBox="0 0 360 360" enable-background="new 0 0 360 360" xml:space="preserve">
+<g id="Layer_2">
+	<ellipse opacity="0.3" enable-background="new    " cx="179.186" cy="276.396" rx="74.333" ry="4.271"/>
+</g>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M227.103,260.996c0,0,1.917-9.882,0.53-14.715l-8.357-27.101l-90.616,0.707l-5.672,29.74
+				c-0.5,3.733-0.092,7.533,1.191,11.076c0,0,3.429,7.798,11.221,12.849c0.428,0.265-0.441-0.232,0,0l0.02,0.32l-0.432-9.968
+				l0.003-4.187l2.33-1.719l3.305-0.125l3.118,1.005l3.047,3.388l1.436,2.269l1.377,2.413l-1.885,9.328h50.432l-1.635-9.328
+				l3.942-6.165l1.509-2.532l4.273-0.895l2.535,0.56l2.1,1.593l1.089,2.758l-0.731,2.023l-0.227,11.203
+				c2.179-0.58,4.262-1.473,6.183-2.648C217.187,272.846,223.961,268.391,227.103,260.996z"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#E484A9"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			<defs>
+				<rect id="SVGID_3_" x="36.67" y="63.246" width="282.795" height="282.794"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+		</g>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="none" stroke="#21254E" stroke-width="2" stroke-miterlimit="10"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#21254E" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M243.742,166.179
+			c0,30.748-31.818,55.674-71.072,55.674c-62.171,0-71.072-36.036-71.072-55.674c0-30.749,31.819-55.675,71.072-55.675
+			C211.924,110.504,243.742,135.43,243.742,166.179z"/>
+		<path fill="#E65C88" stroke="#21254E" stroke-width="2" stroke-miterlimit="10" d="M129.551,214.064
+			c0,0,34.157,5.112,87.467-2.753l3.084,10.541c0,0-43.942,14.636-91.728,0L129.551,214.064z"/>
+		<polygon fill="#9390BB" stroke="#21254E" stroke-width="2" stroke-miterlimit="10" points="144.406,225.005 141.083,224.355 
+			142.824,215.577 146.148,215.626 		"/>
+		<polygon fill="#9390BB" stroke="#21254E" stroke-width="2" stroke-miterlimit="10" points="150.914,226.263 143.741,224.861 
+			145.594,215.626 152.708,215.626 		"/>
+	</g>
+	<path opacity="0.2" d="M111.44,178.979h2.521c0,0,0.504,3.361,1.849,4.874S112.449,183.013,111.44,178.979z"/>
+	<rect x="110.768" y="171.415" opacity="0.2" width="2.353" height="5.379"/>
+	<path opacity="0.2" d="M110.348,168.39h3.397c0,0-3.061-17.984,23.495-36.389C137.24,132.001,114.381,135.614,110.348,168.39z"/>
+	<circle opacity="0.2" cx="138.165" cy="137.295" r="1.345"/>
+	<circle opacity="0.2" cx="140.476" cy="131.454" r="1.723"/>
+	<circle opacity="0.2" cx="144.047" cy="136.202" r="2.353"/>
+	<g>
+		<path fill="#E65C88" stroke="#21254E" stroke-width="2" stroke-miterlimit="10" d="M149.327,269.329l0.98-1.538
+			c0,0,1.078-2.736-3.396-8.676s-15.4-5.668-13.563,4.697l1.477,1.971c0,0,0.676-7.226,6.005-6.665S149.327,269.329,149.327,269.329
+			z"/>
+		<polygon fill="#9390BB" stroke="#21254E" stroke-miterlimit="10" points="137.319,255.615 137.319,259.51 139.267,259.191 
+			139.312,255.206 		"/>
+	</g>
+	<g>
+		<path fill="#E65C88" stroke="#21254E" stroke-width="2" stroke-miterlimit="10" d="M196.766,269.329l-0.98-1.538
+			c0,0-1.078-2.736,3.396-8.676s15.4-5.668,13.563,4.697l-1.477,1.971c0,0-0.676-7.226-6.004-6.665
+			C199.934,259.679,196.766,269.329,196.766,269.329z"/>
+		<polygon fill="#9390BB" stroke="#21254E" stroke-miterlimit="10" points="208.773,255.615 208.773,259.51 206.826,259.191 
+			206.781,255.206 		"/>
+	</g>
+	<g>
+		<polygon fill="#A09ECE" stroke="#21254E" stroke-width="1.5" stroke-miterlimit="10" points="172.917,252.36 172.917,276.138 
+			178.443,276.396 179.309,252.36 		"/>
+		
+			<line fill="none" stroke="#21254E" stroke-width="1.5" stroke-miterlimit="10" x1="172.917" y1="256.959" x2="179.143" y2="256.959"/>
+		
+			<line fill="none" stroke="#21254E" stroke-width="1.5" stroke-miterlimit="10" x1="172.917" y1="261.598" x2="178.976" y2="261.598"/>
+		
+			<line fill="none" stroke="#21254E" stroke-width="1.5" stroke-miterlimit="10" x1="172.917" y1="265.981" x2="178.818" y2="265.981"/>
+		
+			<line fill="none" stroke="#21254E" stroke-width="1.5" stroke-miterlimit="10" x1="172.917" y1="270.903" x2="179.309" y2="270.903"/>
+	</g>
+	<g>
+		<polygon fill="#A09ECE" stroke="#21254E" stroke-width="1.5" stroke-miterlimit="10" points="172.96,252.394 172.96,228.616 
+			178.486,228.357 179.352,252.394 		"/>
+		
+			<line fill="none" stroke="#21254E" stroke-width="1.5" stroke-miterlimit="10" x1="172.96" y1="247.795" x2="179.186" y2="247.795"/>
+		
+			<line fill="none" stroke="#21254E" stroke-width="1.5" stroke-miterlimit="10" x1="172.96" y1="243.156" x2="179.019" y2="243.156"/>
+		
+			<line fill="none" stroke="#21254E" stroke-width="1.5" stroke-miterlimit="10" x1="172.96" y1="238.773" x2="178.861" y2="238.773"/>
+		
+			<line fill="none" stroke="#21254E" stroke-width="1.5" stroke-miterlimit="10" x1="172.96" y1="233.851" x2="179.352" y2="233.851"/>
+	</g>
+	<path opacity="0.2" fill="#31323D" d="M136.314,215.818c0,0-2.486,37.535,1.004,39.797c0,0-8.179,3.427-2.242,10.366l0.322,7.571
+		c0,0-12.618-6.421-12.619-19.448c0-13.028,6.041-34.813,7.003-39.876L136.314,215.818z"/>
+	<path opacity="0.2" fill="#31323D" d="M197.507,261.598c0,0-5.942,12.018-15.652,11.055s-24.12,3.165-31.367-6.671
+		c0,0-0.02,2.504-1.16,3.348l-1.277,7.067l50.099-0.119l-1.383-6.948C196.766,269.329,194.055,267.708,197.507,261.598z"/>
+	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="219.582" y1="274.125" x2="219.582" y2="212.3281">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.72" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path opacity="0.2" fill="url(#SVGID_5_)" d="M212.432,212.912c0,0,25.784,47.236-0.191,56.085l-0.246,5.128
+		c0,0,7.438-1.25,14-13.188c0,0,1.813-9.063,0.938-13.625c-0.614-3.201-10.75-34.984-10.75-34.984L212.432,212.912z"/>
+	<g>
+		
+			<text transform="matrix(0.9848 -0.174 0.174 0.9848 200.2246 239.3145)" fill="#E65C88" stroke="#21254E" stroke-width="0.5" stroke-miterlimit="10" font-family="'AgencyFB-Reg'" font-size="12.9447">KH</text>
+	</g>
+</g>
+</svg>
