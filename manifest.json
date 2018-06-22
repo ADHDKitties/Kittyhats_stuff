@@ -8,11 +8,11 @@
             "contract": "ItemMemeTidePod",
             "category": "memes",
             "displayName": "Tie'd Pod"
-        }, {
+        },{
             "image": "doge",
             "contract": "ItemDogeConToken",
-            "category": "comstumes",
+            "category": "costumes",
             "displayName": "Doge Onesie"
-        }, 
+        } 
     ]
 }
