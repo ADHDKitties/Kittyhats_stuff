@@ -8,11 +8,56 @@
             "contract": "ItemMemeTidePod",
             "category": "memes",
             "displayName": "Tie'd Pod"
-        },{
+      },{
             "image": "doge",
             "contract": "ItemDogeConToken",
             "category": "costumes",
             "displayName": "Doge Onesie"
-        } 
+      },{
+          "image": "Clouds",
+          "contract": "ItemClouds",
+          "category": "accessories",
+          "displayName": "Clouds"
+      },{
+          "image": "FlutterMe",
+          "contract": "ItemFlutterMe",
+          "category": "costumes",
+          "displayName": "Flutter Me"
+      },{
+          "image": "Iwillbehokage",
+          "contract": "ItemHokage",
+          "category": "hats",
+          "displayName": "To be Hokage"
+      },{
+          "image": "MagicDragon",
+          "contract": "ItemMagicDragon",
+          "category": "costumes",
+          "displayName": "Magic Dragon"
+      },{
+          "image": "Marshmello",
+          "contract": "ItemMarshmello",
+          "category": "costumes",
+          "displayName": "Marshmello"
+      },{
+          "image": "Wishmaker",
+          "contract": "ItemWishmaker",
+          "category": "hats",
+          "displayName": "Wishmaker"
+      },{
+          "image": "astronaut",
+          "contract": "ItemAstronaut",
+          "category": "costumes",
+          "displayName": "KH Astronaut"
+      },{
+          "image": "classicdiamond",
+          "contract": "ItemClassicDiamond",
+          "category": "accessories",
+          "displayName": "Classic Diamond"
+      },{
+          "image": "thatwasjuju",
+          "contract": "ItemJujuButton",
+          "category": "accessories",
+          "displayName": "That was Juju!"
+      }
     ]
 }
